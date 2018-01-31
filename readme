@@ -1,0 +1,9 @@
+This project uses the NYC taxi trip duration dataset hosted on Kaggle:
+https://www.kaggle.com/c/nyc-taxi-trip-duration/data
+
+The aim here is to predict the duration of taxi trips in NYC.
+
+The preliminary plan is to build a baseline tree-based model using Xgboost.  
+This will be followed by a neural network model based on structured deep learning techniques.
+
+The neural net will be coded using PyTorch.
